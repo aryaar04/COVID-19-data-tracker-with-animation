@@ -12,14 +12,14 @@ Modular code design that allows for easy updates and integration of new data sou
 Built with publicly available datasets such as those from Johns Hopkins University or the World Health Organization.
 
 Technologies Used
-Python
-Pandas
-Plotly
-Dash
+Python,
+Pandas,
+Plotly,
+Dash,
 Jupyter Notebook
 
 Data Sources
-Johns Hopkins University COVID-19 Data Repository
+Johns Hopkins University COVID-19 Data Repository,
 World Health Organization
 
 License
